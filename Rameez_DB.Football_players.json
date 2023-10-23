@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "653303e31ab07732d38acf18"
+  },
+  "name": "Cristiano Ronaldo",
+  "team": "Manchester United",
+  "nationality": "Portuguese",
+  "position": "Forward",
+  "jersey_number": 7
+},
+{
+  "_id": {
+    "$oid": "653303e31ab07732d38acf19"
+  },
+  "name": "Lionel Messi",
+  "team": "Paris Saint-Germain",
+  "nationality": "Argentinian",
+  "position": "Forward",
+  "jersey_number": 30
+},
+{
+  "_id": {
+    "$oid": "653303e31ab07732d38acf1a"
+  },
+  "name": "Neymar",
+  "team": "Paris Saint-Germain",
+  "nationality": "Brazilian",
+  "position": "Forward",
+  "jersey_number": 10
+},
+{
+  "_id": {
+    "$oid": "653303e31ab07732d38acf1b"
+  },
+  "name": "Kylian Mbappe",
+  "team": "Paris Saint-Germain",
+  "nationality": "French",
+  "position": "Forward",
+  "jersey_number": 7
+},
+{
+  "_id": {
+    "$oid": "653303e31ab07732d38acf1c"
+  },
+  "name": "Diego Maradona",
+  "team": "Retired",
+  "nationality": "Argentinian",
+  "position": "Forward",
+  "jersey_number": 18
+}]
